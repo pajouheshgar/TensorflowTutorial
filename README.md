@@ -1,4 +1,4 @@
-# TensorflowTutorial
+# TensorflowTutorial (tensorflow < 2.0.0)
 These are the materials I have prepared as a TA to teach to students who have enrolled in the Deep Learning course. 
 This tutorial is divided into three sessions.
 1. In the first session, you will learn about Tensorflow basics. You will learn about Computational Graphs, Sessions, Visualizing the graphs in TensorFlow, Variable Scopes, Name Scopes, and some of the apparent mistakes that beginners usually make.
